@@ -1,0 +1,24 @@
+Mariana	Argentina	x	-	-	Arabia Saudita
+Mariana	Polonia	x	-	-	México
+Mariana	Polonia	-	-	x	Arabia Saudita
+Mariana	Argentina	x	-	-	México
+Mariana	Polonia	-	-	x	Argentina
+Mariana	Arabia Saudita	-	x	-	México
+Mariana	Argentina	x	-	-	Australia
+Mariana	Paises Bajos	-	-	x	Argentina
+Pedro	Argentina	x	-	-	Arabia Saudita
+Pedro	Polonia	-	-	x	México
+Pedro	Polonia	-	x	-	Arabia Saudita
+Pedro	Argentina	-	-	x	México
+Pedro	Polonia	x	-	-	Argentina
+Pedro	Arabia Saudita	-	x	-	México
+Pedro	Argentina	x	-	-	Australia
+Pedro	Paises Bajos	-	-	x	Argentina
+Ana	Argentina	-	x	-	Arabia Saudita
+Ana	Polonia	x	-	-	México
+Ana	Polonia	x	-	-	Arabia Saudita
+Ana	Argentina	x	-	-	México
+Ana	Polonia	x	-	-	Argentina
+Ana	Arabia Saudita	-	x	-	México
+Ana	Argentina	-	-	x	Australia
+Ana	Paises Bajos	-	-	x	Argentina
